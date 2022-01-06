@@ -1,4 +1,4 @@
-<h1 align="center">Stockbit React Dev Test</h1>
+<h1 align="center">Simple task tracker usign React</h1>
 
 <p>
 Simple website app to track task using React and Fake API Database with JSON Server
