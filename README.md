@@ -1,4 +1,4 @@
-<h1 align="center">Simple task tracker usign React</h1>
+<h1 align="center">Simple task tracker using React</h1>
 
 <p>
 Simple website app to track task using React and Fake API Database with JSON Server
@@ -11,6 +11,21 @@ Simple website app to track task using React and Fake API Database with JSON Ser
 * Toggle reminder in one simple click
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Installing
+
+Run the project by executing:
+
+```
+npm start
+```
+
+Run the fake JSON Server by first installing and then run the server on port 5000: 
+
+```
+npm install -g json-server
+json-server --watch db.json --port 5000
+```
 
 ## Author
 
